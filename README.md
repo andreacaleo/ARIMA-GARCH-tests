@@ -1,1 +1,0 @@
-# ARIMA-GARCH-tests

@@ -1,5 +1,5 @@
-Author: Andrea Caleo, andrea.caleo.pgk@gmail.com
-Date: 04/2016
+### Author: Andrea Caleo, andrea.caleo.pgk@gmail.com
+### Date: 04/2016
 
 This folder contains files for experimental ARIMA - GARCH trading strategies on financial indices, stocks, and in the forex market. Daily close data for the S&P500, shares values and exchange rates are collected using the R module quantmod. A backtracking method is used to estimate ARIMA-GARCH models and forecast the next-day movement. The code and its documentation are taken from M. Halls-Moore blog article: https://www.quantstart.com/articles/ARIMA-GARCH-Trading-Strategy-on-the-SP500-Stock-Market-Index-Using-R, to whom credit is due. These are exploratory tests, not real trading strategies.
 
